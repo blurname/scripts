@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # A modular status bar for dwm
 # Joe Standring <git@joestandring.com>

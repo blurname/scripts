@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # A dwm_bar function to show the master volume of ALSA
 # Joe Standring <git@joestandring.com>
