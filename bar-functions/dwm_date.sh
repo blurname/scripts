@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # A dwm_bar function that shows the current date and time
 # Joe Standring <git@joestandring.com>
