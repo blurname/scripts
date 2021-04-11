@@ -6,3 +6,4 @@ xset r rate 200 30
 picom -b
 fcitx5 &
 ./bar-for.sh &
+./wp-for.sh &
