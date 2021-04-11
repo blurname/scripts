@@ -12,7 +12,8 @@ sudo pacman -Syy && sudo pacman -S archlinuxcn-keyring
 pacman -S paru
 
 #program needed
-paru -S xorg xorg-xinit xf86-video-intel rustup git nodejs npm go lf python rustup leftwm exa ripgrep bat fd flameshot fcitx5 fcitx5-qt fcitx5-configtool
+paru -S xorg xorg-xinit xf86-video-intel rustup git nodejs npm go lf python rustup leftwm exa ripgrep bat fd flameshot fcitx5 fcitx5-qt fcitx5-configtool fd potimus-manager picom lxaappearence thunar
+
 
 rustup install stable
 

@@ -5,4 +5,4 @@ feh --bg-fill ~/Downloads/w2.png
 xset r rate 200 30
 picom -b
 fcitx5 &
-
+./bar-for.sh &
