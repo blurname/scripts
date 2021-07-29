@@ -18,7 +18,8 @@ pacman -S paru
 
 #program needed
 paru -S xorg xorg-xinit xf86-video-intel elvish 
-\git nodejs npm go lf python rustup leftwm exa ripgrep bat fd flameshot fcitx5 fcitx5-qt fcitx5-gtk fcitx5-configtool fd potimus-manager picom lxaappearence thunar
+\git nodejs npm go lf python rustup leftwm exa ripgrep bat fd flameshot fcitx5 fcitx5-qt fcitx5-gtk fcitx5-configtool fd potimus-manager picom lxaappearence thunar global
+
 
 #git repositories
 git clone https://github.com/blurname/.config.git
