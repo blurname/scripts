@@ -18,7 +18,7 @@ pacman -S paru
 
 #program needed
 paru -S xorg xorg-xinit xf86-video-intel elvish 
-\git nodejs npm go lf python rustup leftwm exa ripgrep bat fd flameshot fcitx5 fcitx5-qt fcitx5-gtk fcitx5-configtool fd potimus-manager picom lxaappearence thunar global
+\git nodejs npm go lf python rustup leftwm exa ripgrep bat fd flameshot fcitx5-im fd optimus-manager picom lxaappearence thunar global xfce4-power-manager nm-applet v2ray v2raya firefox qqmusic telegram-desktop rofi dmenu
 
 
 #git repositories
@@ -35,5 +35,4 @@ npm config set registry https://registry.npm.taobao.org
 paru -S nerd-fonts-source-code-pro
  \noto-fonts
  \ttf-linux-libertine ttf-inconsolata ttf-joypixels ttf-twemoji-color noto-fonts-emoji ttf-liberation ttf-droid
- \wqy-bitmapfont wqy-microhei wqy-microhei-lite wqy-zenhei adobe-source-han-mono-cn-fonts adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts
 
