@@ -8,4 +8,3 @@ fcitx5 &
 nm-applet &
 xfce4-power-manager &
 ./bar-for.sh &
-./wp-for.sh &
