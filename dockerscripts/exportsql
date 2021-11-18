@@ -1,0 +1,3 @@
+docker exec -it mysql8 bash
+mysqldump -u user -p dbname > dbname.sql
+docker cp mysql8:/dbname.sql ./
