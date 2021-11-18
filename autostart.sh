@@ -6,5 +6,5 @@ xset r rate 200 30
 picom -b
 fcitx5 &
 nm-applet &
-xfce4-power-manager &
-./bar-for.sh &
+#xfce4-power-manager &
+#./bar-for.sh &
